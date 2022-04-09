@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pertemuan_4</string>
+    <string name="welcome_massage"> Welcome Message</string>
+    <string name="display_message"> String massage</string>
 </resources>
